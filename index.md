@@ -45,7 +45,7 @@ As a final-year Ph.D. student in Mathematics at the University of Cambridge, I a
 
 ## Recent Publications
 
-### Conference
+### Conferences
 1. **Closing the Loop in Medical Decision Support by Understanding Clinical Decision-Making: A Case Study on Organ Transplantation.**<br>
 *Neural Information Processing Systems* (NeurIPS), 2021.<br>
 **Y. Qin\***, F. Imrie\*, A. Hüyük, D. Jarrett, M. van der Schaar.
@@ -59,11 +59,11 @@ As a final-year Ph.D. student in Mathematics at the University of Cambridge, I a
 In review at *International Conference on Machine Learning* (ICML), 2024.<br>
 **Y. Qin**, A. Curth, M. van der Schaar.
 
-### Journal
-5. **External validity of machine learning-based prognostic scores for cystic fibrosis: A retrospective study using the UK and Canadian registries.**<br>
+### Journals
+5. **External Validity of Machine Learning-based Prognostic Scores for Cystic Fibrosis: A Retrospective Study using the UK and Canadian Registries.**<br>
 *PLOS Digital Health*, 2023.<br>
 **Y. Qin**, A. Alaa, A. Floto, M. van der Schaar.
-6. **AutoCluster: Effortless Cluster analysis using Large Language Models.**<br>
+6. **AutoCluster: Effortless Cluster Analysis using Large Language Models.**<br>
 *To be submitted*, 2024.<br>
 **Y. Qin**, M. van der Schaar.
 
