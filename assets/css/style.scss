@@ -2,15 +2,24 @@
 ---
 
 @import "{{ site.theme }}";
-
-
 ol {
     counter-reset: list;
 }
 ol > li {
     list-style: none;
 }
-ol > li:before {
+ol > ::marker {
     content: "[" counter(list) "] ";
     counter-increment: list;
+}
+
+
+header,
+footer,
+ul.downloads {
+    width:200px;
+}
+
+section {
+    width:650px;
 }
