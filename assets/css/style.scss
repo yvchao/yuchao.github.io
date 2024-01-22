@@ -17,21 +17,14 @@ ol>li::marker {
 }
 
 .wrapper {
-  width:80%;
+  width:70%;
 }
 
-header,
-footer,
-ul.downloads {
-  width:270px;
+header img {
+  max-width:60%
 }
-
-header {
-  img {
-    max-width:60%
+@media print, screen and (max-width: 1080px) {
+  .wrapper {
+    width:80%
   }
-}
-
-section {
-    width:630px;
 }
