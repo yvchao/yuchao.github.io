@@ -3,16 +3,22 @@
 
 @import "{{ site.theme }}";
 ol {
-    counter-reset: list;
+  counter-reset:list;
+  padding-left: 2em;
 }
-ol > li {
-    list-style: none;
+ol>li {
+  list-style:none;
+  counter-increment:list;
 }
-ol > ::marker {
-    content: "[" counter(list) "] ";
-    counter-increment: list;
+ol>li::marker {
+  content:"[" counter(list) "] ";
+  font-weight:bold;
+  color: #277777;
 }
 
+.wrapper {
+  width:80%;
+}
 
 header,
 footer,
