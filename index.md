@@ -41,7 +41,7 @@ As a final-year Ph.D. student in Mathematics at the University of Cambridge, I a
     </tr>
 </table>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## Recent Publications
 
