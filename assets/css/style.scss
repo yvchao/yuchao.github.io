@@ -23,9 +23,15 @@ ol>li::marker {
 header,
 footer,
 ul.downloads {
-    width:200px;
+  width:270px;
+}
+
+header {
+  img {
+    max-width:60%
+  }
 }
 
 section {
-    width:650px;
+    width:630px;
 }
